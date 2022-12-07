@@ -1,3 +1,2 @@
 # Clock
-It shows the time and it has two themes for day and night!
-
+this is a readme file for clock
