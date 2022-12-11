@@ -1,5 +1,6 @@
+//Sample cpp file
 #include<iostream>
-uding namespace std;
+using namespace std;
 
 int main(){
   cout<<"This is a clock";
